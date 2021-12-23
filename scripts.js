@@ -57,7 +57,6 @@ class Clock {
 }
 
 let clock = new Clock('.oneClock')
-console.log(clock)
 clock.startClock()
 clock.addElement()
 
